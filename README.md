@@ -2,7 +2,7 @@
 
 ## Clonar repo:
 ```bash
-git clone 
+git clone https://github.com/adrianrodriguezmontesinos/course-ng19-starter-api.git
 ```
 
 ## Instalar dependencias
