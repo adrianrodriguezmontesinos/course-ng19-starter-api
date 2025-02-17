@@ -1,5 +1,8 @@
 # API DE PRUEBA - CURSO GRATIS NG 19
 
+## Requerimientos:
+- nodejs: https://nodejs.org/
+
 ## Clonar repo:
 ```bash
 git clone https://github.com/adrianrodriguezmontesinos/course-ng19-starter-api.git

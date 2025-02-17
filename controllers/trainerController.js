@@ -1,6 +1,6 @@
-const streets = require('../models/trainersSport');
+const streets = require('../models/trainersStreet');
 const casuals = require('../models/trainersCasual');
-const sports = require('../models/trainersStreet');
+const sports = require('../models/trainersSport');
 const types = require('../models/trainerTypes');
 
 exports.getTrainersByType = (req, res) => {

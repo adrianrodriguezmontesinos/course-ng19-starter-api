@@ -1,7 +1,7 @@
 const trainerTypes = {
     SPORT: 'sport',
     CASUAL: 'casual',
-    STREET: 'formal'
+    STREET: 'street'
 };
 
 module.exports = trainerTypes;
