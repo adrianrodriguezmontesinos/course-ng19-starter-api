@@ -30,6 +30,6 @@ node app.js
 const trainerTypes = {
     SPORT: 'sport',
     CASUAL: 'casual',
-    STREET: 'formal'
+    STREET: 'street'
 };
 ```
