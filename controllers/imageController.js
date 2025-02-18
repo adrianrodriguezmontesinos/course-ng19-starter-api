@@ -10,6 +10,6 @@ exports.getImageById = (req, res) => {
     const image = images.get(id);
     
     return image 
-        ? res.status(400).json({ id, image })
-        : res.json({ message: `[MKW API] zapatilla con id ${id} no encontrada.`});
+        ? res.json({ id, image })
+        : res.status(400).json({ message: `[MKW API] zapatilla con id ${id} no encontrada.`});
 };
